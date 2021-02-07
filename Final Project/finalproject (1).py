@@ -30,7 +30,7 @@ Serdar=Employees("Serdar", "Vural" , 35, "English")
 
 Serhat.print_employeeAge()
 Serhat.print_employeeName()
-Zeynep.print_employeeName
+
 
 
 #Employee Languages
